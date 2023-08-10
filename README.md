@@ -1,1 +1,1 @@
-# Ecommerce_Api_
+It is run through postman
